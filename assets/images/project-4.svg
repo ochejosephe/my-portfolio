@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-label="REPLYAI concept placeholder">
+  <defs>
+    <linearGradient id="bg4" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0a1422"/>
+      <stop offset="100%" stop-color="#112737"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="780" fill="url(#bg4)"/>
+  <rect x="110" y="100" width="980" height="560" rx="28" fill="#102739" stroke="#6ae8ff" stroke-width="3" opacity="0.9"/>
+  <rect x="160" y="150" width="180" height="28" rx="14" fill="#6ae8ff" opacity="0.9"/>
+  <rect x="160" y="200" width="420" height="18" rx="9" fill="#bbf2ff" opacity="0.6"/>
+  <rect x="160" y="260" width="420" height="250" rx="22" fill="#183d55"/>
+  <rect x="620" y="260" width="420" height="250" rx="22" fill="#214d6c"/>
+  <circle cx="292" cy="384" r="88" fill="#6ae8ff" opacity="0.25"/>
+  <circle cx="820" cy="384" r="88" fill="#56a7ff" opacity="0.25"/>
+  <rect x="160" y="560" width="880" height="24" rx="12" fill="#6ae8ff" opacity="0.2"/>
+  <text x="160" y="660" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#ecfbff">REPLYAI</text>
+</svg>

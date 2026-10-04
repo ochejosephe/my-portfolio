@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-label="ASSAD LUXURY project placeholder">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#120d1d"/>
+      <stop offset="100%" stop-color="#251b36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="780" fill="url(#bg2)"/>
+  <rect x="80" y="100" width="1040" height="560" rx="26" fill="#1a1326" stroke="#9f7fff" stroke-width="3" opacity="0.9"/>
+  <rect x="130" y="150" width="220" height="26" rx="13" fill="#d7c9ff" opacity="0.9"/>
+  <rect x="130" y="190" width="340" height="18" rx="9" fill="#d7c9ff" opacity="0.5"/>
+  <rect x="650" y="150" width="410" height="220" rx="20" fill="#38274f"/>
+  <rect x="130" y="260" width="500" height="280" rx="20" fill="#2c1e37"/>
+  <rect x="670" y="420" width="360" height="160" rx="20" fill="#4d3b68"/>
+  <rect x="130" y="590" width="900" height="24" rx="12" fill="#8d6bff" opacity="0.2"/>
+  <text x="130" y="660" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#f1ecff">ASSAD LUXURY</text>
+</svg>

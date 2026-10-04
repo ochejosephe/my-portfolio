@@ -1,0 +1,31 @@
+AJ TechLab CV Placeholder
+
+AJEH JOSEPH OCHE
+Front-End Developer | AI Creative Specialist | IT Student
+Location: Nigeria
+
+Profile:
+Information Technology student developing practical skills in front-end web development, AI prompting, AI-assisted design, research, and digital technology. I enjoy creating websites, improving responsive interfaces, and exploring modern AI workflows.
+
+Skills:
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- Front-End Development
+- Git & GitHub
+- AI Prompting
+- AI-Assisted Development
+- Canva
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Research and Reporting
+
+Education:
+Federal University of Lafia
+B.Sc. Information Technology — In Progress
+
+Portfolio:
+AJ TechLab
+
+This document is a placeholder for a future revised CV.
